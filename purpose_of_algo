@@ -19,3 +19,8 @@ Some uses:
   Cryptograpghy: Keeping data safe through encryption and decryption and hashing
 
   Pseudorandom number generation: without the capabilities to generate seeming random numbers, many computer tasks become impossible
+
+For every algorithm:
+1. Describe the problem
+2. Create a series of steps to solve the problem
+3. Perform the steps to obtain a desired result
